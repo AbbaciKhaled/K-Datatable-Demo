@@ -1,27 +1,31 @@
-# KDatatableDemo
+## Demo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.2.
+### Live preview
 
-## Development server
+<a href="https://k-datatabe.netlify.app/" target="_blank">Netlify</a>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<img style="width: 100%;" src="https://k-datatabe.netlify.app/assets/images/preview.gif" />
 
-## Code scaffolding
+### GitHub demo source code
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<a href="https://github.com/AbbaciKhaled/K-Datatable-Demo">Demo source code</a>
 
-## Build
+## Install
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+To install this library with npm, run below command:
 
-## Running unit tests
+`npm k-datatable`
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## How to use it ?
 
-## Running end-to-end tests
+Visit
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### NPM Page
 
-## Further help
+<a href="https://www.npmjs.com/package/k-datatable" target="_blank">npmjs</a>
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Or
+
+### GitHub Page
+
+<a href="https://github.com/KPM-Libraries/k-datatable" target="_blank">GitHub</a>
