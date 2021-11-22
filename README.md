@@ -14,7 +14,7 @@
 
 To install this library with npm, run below command:
 
-`npm k-datatable`
+`npm i k-datatable`
 
 ## How to use it ?
 
